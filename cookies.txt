@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.apetron.com	TRUE	/	FALSE	1999999999	__cfduid	df4308a96b76b96c0b84428e5d7e2639b1607284728
+apetron.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
